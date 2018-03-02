@@ -492,12 +492,8 @@
                         <version>2.1</version>
                     </plugin>
                 </plugins>
-            </reporting>
-        </profile>
-    </profiles>
-    <plugin>
-        </plugins>
-        ...
+                
+                
         <distributionManagement>
             
             <repository>
