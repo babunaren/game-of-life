@@ -495,8 +495,8 @@
             </reporting>
         </profile>
     </profiles>
-</project>
-<project    ...>
+<project>
+    </projects>    
     ...
     <plugin>
         </plugins>
